@@ -2,7 +2,7 @@
 
 ## icons
 
-website om ico-font te genereren [icomoon.io] (https://icomoon.io)
+website om ico-font te genereren [icomoon.io](https://icomoon.io)
 
 # reset
 
